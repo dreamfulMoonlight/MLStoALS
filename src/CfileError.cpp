@@ -32,3 +32,4 @@ END_MESSAGE_MAP()
 
 
 // CfileError 消息处理程序
+//hello world
